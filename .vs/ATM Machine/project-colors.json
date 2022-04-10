@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1cfcaf2-bbe2-4ea8-9e67-d462f13a8764": {
+      "ProjectGuid": "a1cfcaf2-bbe2-4ea8-9e67-d462f13a8764",
+      "DisplayName": "ATM System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
